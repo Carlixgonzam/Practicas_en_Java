@@ -1,0 +1,22 @@
+package herencia;
+
+public class ciudad {
+	
+	public String nombre;
+	
+	public ciudad(String nombre) {
+		this.nombre= nombre;
+	}
+	
+	public void addTile(Tile tile) {
+	}
+	
+	public void addConnector(Connector connector) {
+		
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

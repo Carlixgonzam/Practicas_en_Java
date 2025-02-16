@@ -1,0 +1,8 @@
+package herencia;
+
+public abstract class Building implements Tile{
+	
+	public Building(int x, int y) {
+		
+	}
+}

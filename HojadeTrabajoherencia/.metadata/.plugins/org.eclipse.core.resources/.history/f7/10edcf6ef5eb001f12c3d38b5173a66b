@@ -1,0 +1,13 @@
+package herencia;
+
+import java.awt.Graphics;
+
+public abstract class Building implements Tile{
+	
+	public Building(int x, int y) {
+		
+	}
+	public void paint(Graphics g) {
+		
+	}
+}
