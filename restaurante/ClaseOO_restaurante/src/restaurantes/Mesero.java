@@ -5,7 +5,7 @@ public class Mesero
     /**
      * El nombre del mesero
      */
-    private String nombre;
+    private String nombre; //son mis atributos
 
     /**
      * La cantidad de dinero que ha recibido como propina
